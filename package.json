@@ -1,0 +1,8 @@
+{
+    "name": "flowhub-bottleneck",
+    "version": "0.0.1",
+    "dependencies": {
+        "noflo": "^1.4.3",
+        "noflo-core": "^0.6.1"
+    }
+}
