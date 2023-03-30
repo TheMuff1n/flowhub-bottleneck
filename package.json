@@ -2,6 +2,7 @@
     "name": "flowhub-bottleneck",
     "version": "0.0.1",
     "dependencies": {
+        "bottleneck": "^2.19.5",
         "noflo": "^1.4.3",
         "noflo-core": "^0.6.1"
     }
